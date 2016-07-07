@@ -1,4 +1,4 @@
-# icon
+# icon-generate-auto-resize
 Generate manysize of icon for android and ios.
 
 Put a img size 1024*1024 named icon.png into same flord with icon.py
