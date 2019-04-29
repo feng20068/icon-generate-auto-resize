@@ -1,4 +1,8 @@
 # icon-generate-auto-resize
+install pillow frist
+```shell
+pip install pillow 
+```
 Generate manysize of icon for android and ios.
 
 Put a img size 1024*1024 named icon.png into same flord with icon.py
@@ -13,6 +17,11 @@ According to the original width and height ratio resize pictures.
 
 
 -----------------------------
+依赖 pillow,先用 pip 安装
+
+```shell
+pip install pillow 
+```
 
 自动生成 ios 和 android 所需的不同尺寸icon。
 
